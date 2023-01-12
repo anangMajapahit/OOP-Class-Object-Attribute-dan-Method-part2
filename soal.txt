@@ -1,0 +1,2 @@
+1) Selesaikan Latihan Matematika Canggih di dalam slide
+2) Buatlah studi kasus inheritance dari hasil pemikiran anda, deskripsikan studi kasus tersebut selanjutnya selesaikan dalam bentuk source code
